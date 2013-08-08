@@ -5,7 +5,7 @@
  * Добавление нескольких файлов к странице
  *
  * @category 	plugin
- * @version 	1.0.2
+ * @version 	1.11
  * @license 	http://www.gnu.org/copyleft/gpl.html GNU Public License (GPL)
  * @author      Temus (temus3@gmail.com)
  * @internal	@properties &tvIds=TV Ids;text;&templ=Template;text;&role=Role;text;
