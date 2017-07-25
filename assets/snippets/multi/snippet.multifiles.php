@@ -25,7 +25,7 @@ foreach ($fileArr as $v) {
 			$icon = 'icon_image';
 			$alt = 'Изображение';
 			break;
-		case 'xls':
+		case 'xls': case 'xlsx':
 			$icon = 'icon_excel';
 			$alt = 'Microsoft Excel';
 			break;
@@ -37,7 +37,7 @@ foreach ($fileArr as $v) {
 			$icon = 'icon_pdf';
 			$alt = 'Adobe PDF';
 			break;
-		case 'ppt':
+		case 'ppt': case 'pptx':
 			$icon = 'icon_pp';
 			$alt = 'Microsoft Powerpoint';
 			break;
@@ -45,7 +45,7 @@ foreach ($fileArr as $v) {
 			$icon = 'icon_text';
 			$alt = 'Текст';
 			break;
-		case 'doc':
+		case 'doc': case 'docx':
 			$icon = 'icon_word';
 			$alt = 'Microsoft Word';
 			break;
