@@ -37,7 +37,7 @@ $output = $matches[0];
 $output .= <<< OUT
 <!-- MultiFiles -->
 <style type="text/css">
-.fileitem {border:1px solid #e3e3e3; margin:0 0 5px; padding:2px 5px 5px 5px; overflow:hidden; white-space:nowrap; zoom:1}
+.fileitem {border:1px solid #e3e3e3; margin:0 0 5px; padding:2px 100px 5px 5px; overflow:hidden; white-space:nowrap; zoom:1}
 .fileitem span {display:inline-block; padding-top:3px;}
 .fileitem input {line-height:1.1; vertical-align:middle;}
 </style>
